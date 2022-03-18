@@ -1,7 +1,7 @@
 
 <!-- Headline-->
 # Code-Refactor-BC1
-[![Github Repo] (https://img.shields.io/github/repo-size/Mcnoor/Code-Refactor-BC1)]
+[![Github Repo] (![GitHub repo size](https://img.shields.io/github/repo-size/Mcnoor/Code-Refactor-BC1))]
 
 This is a readme file for the challenge 1 HTML file and CSS file.
 
