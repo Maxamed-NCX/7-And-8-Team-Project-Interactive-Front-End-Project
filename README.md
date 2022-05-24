@@ -1,43 +1,49 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/CarlJMcGee/Project1-travel-app)
+![GitHub top language](https://img.shields.io/github/languages/top/CarlJMcGee/Project1-travel-app)
 
-<!-- Headline-->
-# Code-Refactor-BC1
-![GitHub repo size](https://img.shields.io/github/repo-size/Mcnoor/Code-Refactor-BC1)
+# SunFund
 
-This is a readme file for the challenge 1 HTML file and CSS file.
+TEAM #2
 
-## Files in Repository
-Both Starter code for HTML and CSS
+## UofM BootCamp: Project 1
 
-1. **index.html (file)**
+### Purpose:
 
-2. **Folder Containing CSS** 
-    - Style.css (file)
+When search is input, App fetches data for Weather and Current Exchange upon entering the city name.
 
-*  Other files included are images
+How to use:
+Click on search bar
+Type "city name"
 
-1. Brand Swareness 
-2. Cost Management
-3. Digital Marketing Meeting
-4. Lead Generation
-5. Online Reputation Management
-6. Search Engine Optimization
-7. Social Media Marketing 
+### Features
 
-* **Demo website image**
+Weather ☀️ Displays:
 
+- Weather icon
+- Temperature
+- Windspeed
+- Humidity
+- AQI
 
-* **READ.md (file)**
+Currency Exchange 💲 Displays:
 
----
-### Links
+- USD to Other Currencies
 
-* Github repository
-1. [GitHub] (https://github.com/Mcnoor/Code-Refactor-BC1.git)
-2. [URL] (https://mcnoor.github.io/Code-Refactor-BC1/)
+### Credits
 
+- Cam Cole
+- Carl McGee
+- Jason Arriaza
+- Maxamed-Noor Xassan
+- Megan Gedde
+- Rejene Giinther
 
+[GitHub Project Repo](https://github.com/CarlJMcGee/Project1-travel-app)
 
-[Demo_Website_Image]
-(https://courses.bootcampspot.com/courses/1207/files/1447412/preview)
+[GitHub Deployed Link](https://carljmcgee.github.io/Project1-travel-app/)
 
+### Page Images
 
+<img width="1437" alt="Minneapolis" src="./assets\img\screenshot-carljmcgee.github.io-2022.04.18-19_55_27.png">
+
+<img width="1437" alt="Minneapolis" src="./assets\img\screenshot-carljmcgee.github.io-2022.04.18-19_55_28.png">

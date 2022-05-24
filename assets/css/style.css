@@ -1,0 +1,108 @@
+:root {
+  --primariy-color: #e7ecef;
+  --secondary-color: #6096ba;
+  --tertiary-color: #a3cef1;
+  --quaternary-color: #274c77;
+  --quinary-color: rgb(23, 47, 73);
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+html {
+  background-color: var(--tertiary-color);
+}
+
+.background-primary {
+  background-color: var(--secondary-color);
+}
+.background-secondary {
+  background-color: var(--secondary-color);
+}
+.background-tertiary {
+  background-color: var(--tertiary-color);
+}
+.background-quaternary {
+  background-color: var(--quaternary-color);
+}
+
+.background-quaternary:hover {
+  background-color: var(--quinary-color);
+}
+
+.navbar {
+  display: flex;
+  justify-content: center;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 7vh;
+}
+.search-form {
+  display: flex;
+  justify-content: center;
+}
+.card-content {
+  font-weight: bold;
+  font-size: 3vh;
+}
+.button {
+  font-weight: bold;
+  font-size: 2.5vh;
+}
+.title {
+  margin: 5%;
+}
+
+.search {
+  margin: 25px;
+}
+
+.weatherCast,
+.currency {
+  height: 100%;
+}
+
+.footer {
+  background-color: #e7ecef;
+  padding: 3vh;
+}
+
+/* MEDIA QUERY FOR 768PX AND SMALLER */
+@media screen and (max-width: 768px) {
+  .button {
+    width: 97%;
+  }
+}
+
+#dropdown-menu {
+  width: 100%;
+  text-transform: capitalize;
+  text-align: center;
+}
+
+.UV-severe {
+  background-color: rgb(108, 73, 201);
+  color: whitesmoke;
+  border-radius: 0.3125em;
+}
+
+.UV-very-high {
+  background-color: rgb(217, 0, 17);
+  color: whitesmoke;
+  border-radius: 0.3125em;
+}
+
+.UV-high {
+  background-color: rgb(249, 89, 1);
+  color: whitesmoke;
+  border-radius: 0.3125em;
+}
+
+.UV-moderate {
+  background-color: rgb(214, 197, 0);
+  color: whitesmoke;
+  border-radius: 0.3125em;
+}
+
+.UV-low {
+  background-color: rgb(41, 149, 1);
+  color: whitesmoke;
+  border-radius: 0.3125em;
+}
