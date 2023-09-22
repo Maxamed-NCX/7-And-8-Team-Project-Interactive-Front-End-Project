@@ -3,7 +3,7 @@
 
 # SunFund
 
-TEAM #2
+TEAM PROJECT
 
 ## UofM BootCamp: Project 1
 
