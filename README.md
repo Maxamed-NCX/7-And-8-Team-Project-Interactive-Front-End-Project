@@ -5,7 +5,7 @@
 
 TEAM PROJECT
 
-## UofM BootCamp: Project 1
+## UofM BootCamp: Group Project 1
 
 ### Purpose:
 
