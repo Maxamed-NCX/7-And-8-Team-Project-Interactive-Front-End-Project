@@ -2,8 +2,9 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/CarlJMcGee/Project1-travel-app)
 
 # SunFund
+## UofM BootCamp: TEAM WEATHER PROJECT
+Weather Dashboard Application
 
-TEAM WEATHER PROJECT
 
 ## UofM BootCamp: Group Project 1
 
