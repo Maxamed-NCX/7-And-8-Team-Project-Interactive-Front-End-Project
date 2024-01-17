@@ -3,7 +3,7 @@
 
 # SunFund
 
-TEAM PROJECT
+TEAM WEATHER PROJECT
 
 ## UofM BootCamp: Group Project 1
 
